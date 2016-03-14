@@ -38,6 +38,12 @@ namespace OptionsWebSite.Controllers
         // GET: YearTerms/Create
         public ActionResult Create()
         {
+            ViewBag.Term = new SelectList(new List<SelectListItem>
+                                       {
+                                         new SelectListItem { Selected = true, Text = "10", Value = "10"},
+                                         new SelectListItem { Selected = false, Text = "20", Value = "20"},
+                                         new SelectListItem { Selected = false, Text = "30", Value = "30"},
+                                       }, "Value", "Text", 1);
             return View();
         }
 
@@ -48,6 +54,7 @@ namespace OptionsWebSite.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "YearTermId,Year,Term,IsDefault")] YearTerm yearTerm)
         {
+            yearTerm.Term = Int32.Parse(yearTerm.Term.ToString());
             if (yearTerm.IsDefault == true)
             {
                 var query = from a in db.YearTerms
@@ -68,12 +75,25 @@ namespace OptionsWebSite.Controllers
                 return RedirectToAction("Index");
             }
 
+             ViewBag.Term = new SelectList(new List<SelectListItem>
+                                       {
+                                         new SelectListItem { Selected = true, Text = "10", Value = "10"},
+                                         new SelectListItem { Selected = false, Text = "20", Value = "20"},
+                                         new SelectListItem { Selected = false, Text = "30", Value = "30"},
+                                       }, "Value", "Text", 1);
+
             return View(yearTerm);
         }
 
         // GET: YearTerms/Edit/5
         public ActionResult Edit(int? id)
         {
+            ViewBag.Term = new SelectList(new List<SelectListItem>
+                                       {
+                                         new SelectListItem { Selected = true, Text = "10", Value = "10"},
+                                         new SelectListItem { Selected = false, Text = "20", Value = "20"},
+                                         new SelectListItem { Selected = false, Text = "30", Value = "30"},
+                                       }, "Value", "Text", 1);
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
@@ -93,6 +113,7 @@ namespace OptionsWebSite.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "YearTermId,Year,Term,IsDefault")] YearTerm yearTerm)
         {
+            yearTerm.Term = Int32.Parse(yearTerm.Term.ToString());
             if (yearTerm.IsDefault == true)
             {
                 var query = from a in db.YearTerms
@@ -113,6 +134,14 @@ namespace OptionsWebSite.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+
+            ViewBag.Term = new SelectList(new List<SelectListItem>
+                                       {
+                                         new SelectListItem { Selected = true, Text = "10", Value = "10"},
+                                         new SelectListItem { Selected = false, Text = "20", Value = "20"},
+                                         new SelectListItem { Selected = false, Text = "30", Value = "30"},
+                                       }, "Value", "Text", 1);
+
             return View(yearTerm);
         }
 
