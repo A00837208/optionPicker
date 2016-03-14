@@ -1,0 +1,261 @@
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\ApplicationInsights.config
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\csc.exe
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\vbc.exe
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll.config
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.pdb
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Owin.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\WebGrease.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.pdb
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.InitialCreate.resources
+C:\Users\haiha\Desktop\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.InitialCreate.resources
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll.config
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.pdb
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\EntityFramework.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Owin.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\WebGrease.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.pdb
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\EntityFramework.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.InitialCreate.resources
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.InitialCreate.resources
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\ApplicationInsights.config
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\csc.exe
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Collections.Immutable.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\vbc.exe
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\roslyn\VBCSCompiler.exe.config
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll.config
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\OptionsWebSite.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\EntityFramework.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Web.Infrastructure.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Owin.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\WebGrease.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\DiplomaDataModel.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.Web.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AI.WindowsServer.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.ApplicationInsights.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Helpers.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Mvc.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Optimization.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.Razor.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Deployment.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\System.Web.WebPages.Razor.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Antlr3.Runtime.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Newtonsoft.Json.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\EntityFramework.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\EntityFramework.SqlServer.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Google.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csprojResolveAssemblyReference.cache
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.InitialCreate.resources
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.IdentityMigrations.InitialCreate.resources
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\DiplomaOptions\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
