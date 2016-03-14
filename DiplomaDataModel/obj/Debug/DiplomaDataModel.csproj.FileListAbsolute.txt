@@ -61,3 +61,35 @@ C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\Syst
 C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
 C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
 C:\inetpub\wwwroot\DiplomaOptions\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\EntityFramework.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.Owin.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.Owin.Security.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Owin.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Helpers.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Mvc.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Razor.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\EntityFramework.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.Owin.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\Microsoft.Owin.Security.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Helpers.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Mvc.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.Razor.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
