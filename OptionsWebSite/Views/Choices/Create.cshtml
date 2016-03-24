@@ -13,7 +13,7 @@
     <div class="form-horizontal">
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-        <div class="form-group">
+        <div class="form-group" style="display:none;">
             @Html.LabelFor(model => model.YearTermId, "Year Term", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                @Html.TextBoxFor(model => model.YearTerm, new { @class = "form-control", @placeholder = ViewBag.YearTermCurrent, @Value = ViewBag.YearTermCurrent, @readonly = "true" })
@@ -21,7 +21,8 @@
             </div>
         </div>
 
-        <div class="form-group">
+        <div class="form-group" style="display:none;">
+           
             @Html.LabelFor(model => model.StudentId, "Student ID", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.TextBoxFor(model => model.StudentId, new { @class = "form-control", @placeholder = ViewBag.StudentId, @Value = ViewContext.HttpContext.User.Identity.Name, @readonly = "true" })
