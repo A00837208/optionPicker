@@ -90,7 +90,6 @@ E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\De
 E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.xml
 E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\bin\Debug\System.Web.WebPages.Razor.xml
-E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
 E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
 E:\CST term 4 Winter 2015\COMP 4976 ASP.NET\optionPicker\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
 C:\Users\Andrew\Documents\BCIT\CSTTerm4\COMP4976\Assignments\Assignment 2\optionPicker\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
