@@ -139,6 +139,10 @@ namespace OptionsWebSite.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteRoleForUser(string UserName, string RoleName)
         {
+            // prepopulate roles for the view dropdown
+            var list = db.Roles.OrderBy(r => r.Name).ToList().Select(rr => new SelectListItem { Value = rr.Name.ToString(), Text = rr.Name }).ToList();
+            var userList = db.Users.Select(c => new SelectListItem { Value = c.UserName.ToString(), Text = c.UserName.ToString() });
+
             ViewBag.ResultMessage = "Invalid Value!";
 
             if (!string.IsNullOrWhiteSpace(UserName))
@@ -147,6 +151,14 @@ namespace OptionsWebSite.Controllers
 
                 if (UserManager.IsInRole(user.Id, RoleName))
                 {
+                    if(UserName.Equals("A00111111") && RoleName.Equals("Admin"))
+                    {
+                        
+                        ViewBag.Roles = list;
+                        ViewBag.Users = userList;
+                        ViewBag.ResultMessage = "Cannot remove admin rights from this user!";
+                        return View("ManageUserRoles");
+                    }
                     UserManager.RemoveFromRole(user.Id, RoleName);
                     ViewBag.ResultMessage = "Role removed from this user successfully !";
                 }
@@ -156,9 +168,7 @@ namespace OptionsWebSite.Controllers
                 }
 
             }
-            // prepopulate roles for the view dropdown
-            var list = db.Roles.OrderBy(r => r.Name).ToList().Select(rr => new SelectListItem { Value = rr.Name.ToString(), Text = rr.Name }).ToList();
-            var userList = db.Users.Select(c => new SelectListItem { Value = c.UserName.ToString(), Text = c.UserName.ToString() });
+           
             ViewBag.Roles = list;
             ViewBag.Users = userList;
 
