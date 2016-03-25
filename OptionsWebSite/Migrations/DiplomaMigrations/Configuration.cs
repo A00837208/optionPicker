@@ -30,7 +30,7 @@ namespace OptionsWebSite.Migrations.DiplomaMigrations
             //    );
             //
 
-           List<YearTerm> yearTerms = new List<YearTerm>()
+            List<YearTerm> yearTerms = new List<YearTerm>()
             {
                 new YearTerm {Year=2015, Term=20, IsDefault=false },
                 new YearTerm {Year=2015, Term=30, IsDefault=false },
@@ -59,6 +59,19 @@ namespace OptionsWebSite.Migrations.DiplomaMigrations
                 new Choice {YearTermId=2 , StudentId="A00333335" , StudentFirstName="ee" , StudentLastName="qq" , FirstChoiceOptionId=3 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
                 new Choice {YearTermId=2 , StudentId="A00333336" , StudentFirstName="ww" , StudentLastName="rr" , FirstChoiceOptionId=4 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=3 , SelectionDate=DateTime.Now},
                 new Choice {YearTermId=2 , StudentId="A00333337" , StudentFirstName="yy" , StudentLastName="tt" , FirstChoiceOptionId=1 , SecondChoiceOptionId=2 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+
+                new Choice {YearTermId=2 , StudentId="A00333313" , StudentFirstName="aa" , StudentLastName="bb" , FirstChoiceOptionId=1 , SecondChoiceOptionId=2 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=2 , StudentId="A00333324" , StudentFirstName="cc" , StudentLastName="dd" , FirstChoiceOptionId=2 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=2 , StudentId="A00333435" , StudentFirstName="ee" , StudentLastName="qq" , FirstChoiceOptionId=3 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=2 , StudentId="A00333346" , StudentFirstName="ww" , StudentLastName="rr" , FirstChoiceOptionId=4 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=3 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=2 , StudentId="A00333357" , StudentFirstName="yy" , StudentLastName="tt" , FirstChoiceOptionId=1 , SecondChoiceOptionId=2 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+
+                new Choice {YearTermId=3 , StudentId="A00331333" , StudentFirstName="aa" , StudentLastName="bb" , FirstChoiceOptionId=1 , SecondChoiceOptionId=2 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=3 , StudentId="A00332334" , StudentFirstName="cc" , StudentLastName="dd" , FirstChoiceOptionId=2 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=3 , StudentId="A00334335" , StudentFirstName="ee" , StudentLastName="qq" , FirstChoiceOptionId=3 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=3 , StudentId="A00335336" , StudentFirstName="ww" , StudentLastName="rr" , FirstChoiceOptionId=4 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=3 , SelectionDate=DateTime.Now},
+                new Choice {YearTermId=3 , StudentId="A00336337" , StudentFirstName="yy" , StudentLastName="tt" , FirstChoiceOptionId=1 , SecondChoiceOptionId=2 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
+
 
                 new Choice {YearTermId=3 , StudentId="A00333338" , StudentFirstName="uu" , StudentLastName="ii" , FirstChoiceOptionId=2 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=3 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},
                 new Choice {YearTermId=3 , StudentId="A00333339" , StudentFirstName="pp" , StudentLastName="oo" , FirstChoiceOptionId=3 , SecondChoiceOptionId=1 , ThirdChoiceOptionId=2 , FourthChoiceOptionId=4 , SelectionDate=DateTime.Now},

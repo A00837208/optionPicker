@@ -210,6 +210,10 @@
     <Compile Include="Migrations\DiplomaMigrations\201602170423507_InitialCreate.Designer.cs">
       <DependentUpon>201602170423507_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\DiplomaMigrations\201603250242432_seedchoice.cs" />
+    <Compile Include="Migrations\DiplomaMigrations\201603250242432_seedchoice.Designer.cs">
+      <DependentUpon>201603250242432_seedchoice.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\DiplomaMigrations\Configuration.cs" />
     <Compile Include="Migrations\IdentityMigrations\201602170244161_InitialCreate.cs" />
     <Compile Include="Migrations\IdentityMigrations\201602170244161_InitialCreate.Designer.cs">
@@ -327,6 +331,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\DiplomaMigrations\201602170423507_InitialCreate.resx">
       <DependentUpon>201602170423507_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\DiplomaMigrations\201603250242432_seedchoice.resx">
+      <DependentUpon>201603250242432_seedchoice.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\IdentityMigrations\201602170244161_InitialCreate.resx">
       <DependentUpon>201602170244161_InitialCreate.cs</DependentUpon>

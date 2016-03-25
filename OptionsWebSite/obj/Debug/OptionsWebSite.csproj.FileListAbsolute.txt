@@ -520,3 +520,4 @@ E:\CST term 4 Winter 2015\ASP assignment 2\optionPicker\OptionsWebSite\obj\Debug
 E:\CST term 4 Winter 2015\ASP assignment 2\optionPicker\OptionsWebSite\obj\Debug\OptionsWebSite.csproj.GenerateResource.Cache
 E:\CST term 4 Winter 2015\ASP assignment 2\optionPicker\OptionsWebSite\obj\Debug\OptionsWebSite.dll
 E:\CST term 4 Winter 2015\ASP assignment 2\optionPicker\OptionsWebSite\obj\Debug\OptionsWebSite.pdb
+E:\CST term 4 Winter 2015\ASP assignment 2\optionPicker\OptionsWebSite\obj\Debug\OptionsWebSite.Migrations.DiplomaMigrations.seedchoice.resources
